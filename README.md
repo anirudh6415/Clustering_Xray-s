@@ -23,6 +23,6 @@ You can visualize the clustered X-ray images with the following images:
 ![Train labels](assets/train_kmeans_prediction_label.png)
 *K-means prediction labels*
 
-![result 1](assets/train_kmeans_prediction_label.png)
+![result 1](assets/test_kmeans_results.png)
 ![result 1](assets/test_kmeans_resultswithtrain.png)
-![result 1](assets/test_kmeans_resultswithtrain.png)
+![result 1](assets/train_kmeans_results.png)
