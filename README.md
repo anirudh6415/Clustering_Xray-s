@@ -1,4 +1,4 @@
-# X-Ray Image Clustering with K-Means Algorithm
+# X-Ray Image Clustering using K-Means Algorithm
 
 ## Overview
 
